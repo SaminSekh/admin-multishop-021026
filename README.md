@@ -1,1 +1,2 @@
-# admin-multishop-021026
+# shop
+// editlover study is using imgbb for images host
